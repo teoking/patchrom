@@ -12,9 +12,5 @@
     <copyfile src="makefile" dest="Makefile" />
   </project>
   <project path="manifest" name="teoking/patchrom" />
-  <project path="android" name="MiCode/patchrom_android" />
-  <project path="honor" name="MiCode/patchrom_honor" />
-  <project path="i9100" name="MiCode/patchrom_i9100" />
-  <project path="miui" name="MiCode/patchrom_miui" />
   <project path="tools" name="teoking/patchrom_tools" />
 </manifest>
