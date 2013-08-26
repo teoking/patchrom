@@ -24,7 +24,7 @@ To initialize your local repository using the patchrom trees, use a command like
 
     cd patchrom
 
-    repo init -u git://github.com/MiCode/patchrom.git -b ics
+    repo init -u git://github.com/teoking/patchrom.git -b ics
 
 Then to sync up:
 
@@ -78,4 +78,9 @@ Workflow:
      make fullota
 
 Now you can get your own miui ROM, enjoy it!
+
+About my fork
+-------------
+
+ONLY defines projects that I interest.
 
