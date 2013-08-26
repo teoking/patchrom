@@ -13,5 +13,6 @@
   </project>
   <project path="manifest" name="teoking/patchrom" />
   <project path="tools" name="teoking/patchrom_tools" />
+  <project path="lerom" name="teoking/patchrom_lerom" />
   <project path="mygica" name="teoking/patchrom_mygica" />
 </manifest>
