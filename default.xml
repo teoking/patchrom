@@ -12,6 +12,7 @@
     <copyfile src="makefile" dest="Makefile" />
   </project>
   <project path="manifest" name="teoking/patchrom" />
+  <project path="android" name="teoking/patchrom_android" />
   <project path="tools" name="teoking/patchrom_tools" />
   <project path="lerom" name="teoking/patchrom_lerom" />
   <project path="mygica" name="teoking/patchrom_mygica" />
